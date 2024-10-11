@@ -1,0 +1,13 @@
+Token: 0, Lexema: inteiro, Descrição: Tipo inteiro
+Token: 29, Lexema: num, Descrição: Identificador
+Token: 23, Lexema: ;, Descrição: Separador de comandos (;)
+Token: 29, Lexema: num, Descrição: Identificador
+Token: 22, Lexema: =, Descrição: Operador de atribuição (=)
+Token: 30, Lexema: 3, Descrição: Número inteiro
+Token: 23, Lexema: ;, Descrição: Separador de comandos (;)
+Token: 9, Lexema: mostrar, Descrição: Comando de saída (mostrar)
+Token: 25, Lexema: (, Descrição: Parêntese de abertura (()
+Token: 29, Lexema: num, Descrição: Identificador
+Token: 26, Lexema: ), Descrição: Parêntese de fechamento ())
+Token: 23, Lexema: ;, Descrição: Separador de comandos (;)
+Token: 32, Lexema: EOF, Descrição: Fim do arquivo

@@ -1,0 +1,3 @@
+inteiro num;
+num = 3;
+mostrar(num);
